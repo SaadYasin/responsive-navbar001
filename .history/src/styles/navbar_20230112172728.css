@@ -1,0 +1,18 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(38, 84, 170);
+}
+
+.header-logo {
+  display: flex;
+  fl
+  align-items: center;
+}
+
+.header-logo a {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}

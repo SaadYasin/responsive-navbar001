@@ -1,0 +1,21 @@
+*,
+*::before, 
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #242424;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2rem;
+  line-height: 1.1;
+}
+

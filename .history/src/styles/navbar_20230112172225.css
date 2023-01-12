@@ -1,0 +1,5 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(38, 84, 170);
+}
